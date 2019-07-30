@@ -1,0 +1,10 @@
+.fuse*
+*.bmp
+*.jpg
+*.txt
+caffe/.build_release/
+caffe/build/
+VGG_ILSVRC_16_layers.caffemodel
+networks/
+external_libs
+.fuse*
