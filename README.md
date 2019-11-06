@@ -4,7 +4,7 @@ Code for the paper 'ROI Pooled Correlation Filters for Visual Tracking' (CVPR 20
 
 Paper Link
 ---
-* [Paper](https://pan.baidu.com/s/1lsrSmxl5mRwlADkVHGv5_w?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
+* [Paper](https://arxiv.org/pdf/1911.01668.pdf)
 
 
 Installation
