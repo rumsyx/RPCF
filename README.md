@@ -29,12 +29,12 @@ Results
 ---
 * [RESULTS](https://pan.baidu.com/s/1eUDp4lXmtdo9awIVGE6Vaw)  (Extracted code: 2cdc )
  
- The above link includs the results of OTB-100、VOT-2018 datasets.
+ The above link includes the results of **OTB-100**、**VOT-2018** datasets.
 
 
 Citation
 ---
-Please cite:
+Please cite if you find the paper is helpful to your research :)
 ```
 @inproceedings{sun2019roi,
   title={ROI Pooled Correlation Filters for Visual Tracking},
