@@ -1,6 +1,6 @@
 RPCF
 ==
-Code for the paper 'ROI Pooled Correlation Filters for Visual Tracking' (CVPR 2019)
+Code for the paper 'ROI Pooled Correlation Filters for Visual Tracking' 
 
 Paper Link
 ---
